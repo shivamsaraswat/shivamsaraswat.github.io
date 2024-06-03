@@ -36,7 +36,7 @@ The author is running his own tech blog and is hiding a weird thing on its sourc
 
 ## How to Solve 
 
-1). Simply, googling the text *"cybersapien defcon"* gives some websites links and also the description says *"the author is running his own tech blog"*. This gives us the hint to go for **[blog.shivamsaraswat.com](blog.shivamsaraswat.com)** blog link.
+1). Simply, googling the text *"cybersapien defcon"* gives some websites links and also the description says *"the author is running his own tech blog"*. This gives us the hint to go for **[blog.shivamsaraswat.com](https://blog.shivamsaraswat.com)** blog link.
 <center><img src="/assets/img/ctf/dc9111-2022/1.png" alt="Featured Section"></center>
 
 2). Next part of the description says *"hiding a weird thing on its source"* which is hinting for checking the source code of the blog. But there is lot of text.
