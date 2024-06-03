@@ -1,0 +1,40 @@
+# Icons on the footer
+rss: true
+email_address: thecybersapien@protonmail.com
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github: "shivamsaraswat"
+instagram: "cybersapienx"
+keybase:
+linkedin: https://www.linkedin.com/in/shivamsaraswat/
+pinterest:
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange:   # Full URL
+steam:
+tumblr:
+twitter: "thecybersapien"
+vimeo:
+wordpress:
+youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+
+# rss specify feed path
+feed:
+  path: feed.xml
+
+# Share button options
+share:
+  facebook: true
+  twitter: true
+  tumblr:
+  pinterest:
+  pocket: true
+  reddit: true
+  linkedin: true
+  wordpress:
+  email: true
