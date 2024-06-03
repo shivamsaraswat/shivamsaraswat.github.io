@@ -3,16 +3,16 @@ baseurl: ""
 url: "https://blog.shivamsaraswat.com/"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Cybersapien's Blog                                    # site's title
+title: Shivam's Blog                                    # site's title
 description: "Cybersecurity Insights and Research"      # used by search engines
 avatar: assets/img/everything.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Cybersapien's Blog  # Change Blog header text
+header_text: Shivam's Blog  # Change Blog header text
 header_feature_image: assets/img/pexels/header.jpg
 footer_text: >
-  Cybersapien's Blog © 2024
+  SS © 2024
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable

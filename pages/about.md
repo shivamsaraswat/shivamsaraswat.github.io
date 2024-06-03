@@ -6,11 +6,11 @@ feature-img: "assets/img/keys.jpg"
 tags: [About]
 ---
 
-I am a Cybersecurity Enthusiast. I like to solve coding problems using Python. 
+I’m a product security engineer specializing in building exceptional security solutions. Currently, I’m focused on building dev-centric security products (using shift-left approach) at [IKEA](https://www.ikea.com/in/en/).
 
-I am also a [Certified Ethical Hacker (Practical)](https://drive.google.com/file/d/1BNm0BA837_kds7ITUTGTjpvIyeq5j93R/view). I'm currently learning Application Security in my free time.
+I am also a [Certified Ethical Hacker (Practical)](https://drive.google.com/file/d/1BNm0BA837_kds7ITUTGTjpvIyeq5j93R/view). I have a keen interest in cybersecurity and I am always eager to learn new things. I have experience in Product Security, Application Security, Security Automation, Python Scripting, DevSecOps, Cloud Security, Vulnerability Management, etc.
 
-I sometimes solve machines on [TryHackMe](https://tryhackme.com/p/cybersapien) and [HackTheBox](https://app.hackthebox.com/profile/192218), and I also participate and create challenges in the Capture The Flag (CTF) competitions. Here I am writing these writeups as my hobby. I hope you like them. Besides these, I like to read books.
+My goal is to continuously learn and apply new skills and technologies to protect and empower the digital world. I am passionate about cybersecurity and I love to share my knowledge with others. Here I am writing this blog as my hobby. I hope you like them. Besides these, I like to read books.
 
 You can [Contact Me](/contact/) for any questions, feedback and suggestions for the blog page!
 

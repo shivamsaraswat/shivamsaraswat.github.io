@@ -40,7 +40,7 @@ The author is a professional person and has a medium to run his own blog. He lik
 2). We can see 3 blogs links in the featured section.
 <center><img src="/assets/img/ctf/dc9111-2021/featured-section.png" alt="Featured Section"></center>
 
-3). *"own blog"* means blog hosted on own domain, so go to **[cybersapien.tech](https://cybersapien.tech/)**.
+3). *"own blog"* means blog hosted on own domain, so go to **[blog.shivamsaraswat.com](https://blog.shivamsaraswat.com)**.
 
 4). See the source code of the web page. 
 
