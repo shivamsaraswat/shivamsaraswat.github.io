@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why High CVSS Scores Don't Always Mean Real Danger"
-tags: [Cyber Security, SSDLC, Security Engineering]
+tags: [Cyber Security, CVSS, Vulnerability Management]
 color: rgb(160, 7, 27)
 permalink: cvss-is-not-everything/
 author: shivamsaraswat
