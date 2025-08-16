@@ -3,7 +3,7 @@ layout: post
 title: "Compliance as Code: How to Automate Regulatory Requirements"
 tags: [Cyber Security, Security Engineering, DevSecOps, Compliance as Code]
 color: rgb(103, 71, 216)
-permalink: security-as-code/
+permalink: compliance-as-code/
 author: shivamsaraswat
 excerpt_separator: <!--more-->
 ---
