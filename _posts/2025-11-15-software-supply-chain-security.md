@@ -8,11 +8,11 @@ author: shivamsaraswat
 excerpt_separator: <!--more-->
 ---
 
-<!-- more -->
-
 ## Why OWASP Top 10 2025's #3 Risk Demands Your Immediate Attention
 
 In November 2025, the Open Web Application Security Project (OWASP) released its eighth edition of the Top 10 security risks, and the message is clear: software supply chain security has graduated from a niche concern to one of the **most critical threats** facing modern organizations. Ranked at position #3 with an alarming 5.19% incidence rate, Software Supply Chain Failures represents a paradigm shift in how we must approach application security.
+
+<!--more-->
 
 <hr>
 
