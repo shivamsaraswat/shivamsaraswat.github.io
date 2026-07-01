@@ -8,7 +8,7 @@ author: shivamsaraswat
 excerpt_separator: <!--more-->
 ---
 
-The last year saw a run of software supply chain attacks against the npm
+In recent months, we saw a run of software supply chain attacks against the npm
 ecosystem. Packages used by millions of projects were replaced with versions
 that stole credentials, drained crypto wallets, or installed remote access
 trojans. This post lists the main incidents, explains the SLSA framework, and
